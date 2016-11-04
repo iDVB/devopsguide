@@ -208,7 +208,7 @@ You may have heard terms like, 'FrontEnd' or 'HTML' Developer, used in the agenc
 [NPM]: https://npmjs.org/
 
 <!-- ## Testing Frameworks & Tools -->
-[Jasmine]: http://pivotal.github.io/jasmine/
+[Jasmine]: http://jasmine.github.io/
 [Mocha]: http://visionmedia.github.io/mocha/
 [LintJS]: LintJS
 [CasperJS]: http://casperjs.org/
